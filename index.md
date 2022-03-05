@@ -7,7 +7,7 @@
 - [Projects](#projects)
 - [Skills](#skills)
 - [Contact](#contact)
-
+  
 ## About
 This is where I write about myself.
 <br>
@@ -23,6 +23,43 @@ This is where I list my education.
 ## Projects
 This is where I highlight my projects.
 <br>
+
+<div class="project">
+    <div class="project-image">
+        <img src="images/project.jpg" />
+    </div>
+    <!-- End .project-image -->
+
+    <div class="project-info">
+        <h3>Project Name Here</h3>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex.
+        </p>
+        <a href="#">View Project</a>
+    </div>
+    <!-- End .project-info -->
+</div>
+
+<!-- Projects Above -->
+
+<a id="view-more-projects" href="#">View More Projects</a>
+<div id="more-projects" class="row">
+    <div class="project shadow-large">
+        <div class="project-image">
+            <img src="images/project.jpg" />
+        </div>
+        <!-- End .project-image -->
+        <div class="project-info">
+            <h3>Project Name Here</h3>
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
+            </p>
+            <a href="#">View Project</a>
+        </div>
+        <!-- End .project-info -->
+    </div>
+    <!-- End .project -->
+</div>
 
 ## Skills
 This is where I list my skills.
