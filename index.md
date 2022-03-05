@@ -10,12 +10,27 @@
 
 ## About
 
+
+
+
 ## Experience
+
+
+
 
 ## Education
 
+
+
+
 ## Projects
 
+
+
+
 ## Skills
+
+
+
 
 ## Contact
