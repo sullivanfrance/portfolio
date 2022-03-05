@@ -42,7 +42,8 @@ This is where I highlight my projects.
     <!-- End .project-info -->
   </div>
 <br>
-  
+
+<!---
 ## Skills
 This is where I list my skills.
 <br>
