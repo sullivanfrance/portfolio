@@ -23,8 +23,7 @@ This is where I list my education.
 ## Projects
 This is where I highlight my projects.
 <br>
-
-<div class="project">
+  <div class="project">
     <div class="project-image">
         <img src="https://www.github.com/sullivanfrance/portfolio/images/mangroveForestTrends.png" />
     </div>
@@ -38,10 +37,10 @@ This is where I highlight my projects.
         <a href="#">View Project</a>
       <br>
       <a id="view-more-projects" href="#">View More Projects</a>
-<div id="more-projects" class="row">
+  <div id="more-projects" class="row">
     </div>
     <!-- End .project-info -->
-</div>
+  </div>
 <br>
   
 ## Skills
