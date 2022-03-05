@@ -25,7 +25,7 @@ This is where I highlight my projects.
 <br>
   <div class="project">
     <div class="project-image">
-        <img src="https://www.github.com/sullivanfrance/portfolio/images/mangroveForestTrends.png" />
+        <img src="images/mangroveForestTrends.jpg" />
     </div>
     <!-- End .project-image -->
 
