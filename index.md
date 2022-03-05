@@ -24,14 +24,16 @@ This is where I list my education.
 This is where I highlight my projects.
 <br>
 
+<a id="view-more-projects" href="#">View More Projects</a>
+<div id="more-projects" class="row">
 <div class="project">
     <div class="project-image">
-        <img src="images/project.jpg" />
+        <img src="images/mangroveForestTrends.png" />
     </div>
     <!-- End .project-image -->
 
-    <div class="project-info">
-        <h3>Project Name Here</h3>
+    <div class="mangroveForestTrends">
+        <h3>Mangrove Forest Trends</h3>
         <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex.
         </p>
