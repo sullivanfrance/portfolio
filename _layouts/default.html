@@ -19,11 +19,6 @@
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
-	  <style>
-	   img {
-  	   border-radius: 50%;
-           }
-	  </style>
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
