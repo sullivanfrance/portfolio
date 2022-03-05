@@ -17,7 +17,7 @@ This is where I list my experience.
 <br>
 
 ## Education
-This is where i list my education.
+This is where I list my education.
 <br>
 
 ## Projects
