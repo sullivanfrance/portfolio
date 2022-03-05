@@ -26,12 +26,12 @@ This is where I highlight my projects.
 
 <div class="project">
     <div class="project-image">
-        <img src="images/project.jpg" />
+        <img src="images/mangroveForestTrends.png" />
     </div>
     <!-- End .project-image -->
 
-    <div class="project-info">
-        <h3>Project Name Here</h3>
+    <div class="mangroveForestTrends">
+        <h3>Mangrove Forest Trends</h3>
         <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex.
         </p>
