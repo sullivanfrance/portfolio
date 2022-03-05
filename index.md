@@ -24,8 +24,6 @@ This is where I list my education.
 This is where I highlight my projects.
 <br>
 
-<a id="view-more-projects" href="#">View More Projects</a>
-<div id="more-projects" class="row">
 <div class="project">
     <div class="project-image">
         <img src="images/mangroveForestTrends.png" />
@@ -38,10 +36,13 @@ This is where I highlight my projects.
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex.
         </p>
         <a href="#">View Project</a>
+      <br>
+      <a id="view-more-projects" href="#">View More Projects</a>
+<div id="more-projects" class="row">
     </div>
     <!-- End .project-info -->
 </div>
-
+<br>
 ## Skills
 This is where I list my skills.
 <br>
