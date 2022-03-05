@@ -26,7 +26,7 @@ This is where I highlight my projects.
 
 <div class="project">
     <div class="project-image">
-        <img src="images/mangroveForestTrends.png" />
+        <img src="https://www.github.com/sullivanfrance/portfolio/images/mangroveForestTrends.png" />
     </div>
     <!-- End .project-image -->
 
@@ -43,6 +43,7 @@ This is where I highlight my projects.
     <!-- End .project-info -->
 </div>
 <br>
+  
 ## Skills
 This is where I list my skills.
 <br>
